@@ -1,0 +1,14 @@
+[
+    {
+    "fname" : "Rajeev",
+    "lname" : "Patel",
+    "gender": "male",
+    "height" : "170",
+    "weight" : "85",
+    "dob" : "2001-02-10",
+    "email" :"rp13261@gmail.com",
+    "phone" : "8271176940",
+    "passport" : "778",
+    "healthNo":"7700"
+    }
+]
